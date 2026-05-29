@@ -98,8 +98,6 @@ University of Massachusetts Amherst, September 2018 - August 2019
 5. **Multiplex Graph Matching Matched Filters.**  
    Konstantinos Pantazis, Daniel L. Sussman, Youngser Park, Zhirui Li, Carey E. Priebe, and Vince Lyzinski. *Applied Network Science*, 7, Article 29, 2022. [Journal](https://doi.org/10.1007/s41109-022-00464-0)
 
-For a fuller list, please see my [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Konstantinos-Pantazis-5) profiles.
-
 ## Selected Talks and Presentations
 
 - **CMStatistics 2022**, 15th International Conference of the ERCIM WG on Computational and Methodological Statistics, December 17-19, 2022. [Slides](docs/CMStat_2022.pdf)
