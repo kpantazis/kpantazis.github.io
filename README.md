@@ -151,5 +151,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-© Copyright 2024 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: October 19, 2024.
+© Copyright 2026 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: October 19, 2024.
 
