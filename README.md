@@ -24,7 +24,7 @@ Since 2019, I am interested in the statistical analysis of joint spectral embedd
 
 I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian University of Athens](https://www.math.uoa.gr/), Greece.
  
-### For more information, please check out my [industry CV](docs/cv_kp.pdf)  and/or my [academic CV](docs/CV_KP.pdf). Also, connect with me on [LinkedIn](https://linkedin.com/in/konstantinos-pantazis-590748196).
+### For more information, please check out my [industry CV](docs/Industry_CV.pdf)  and/or my [academic CV](docs/Academic_CV.pdf). Also, connect with me on [LinkedIn](https://linkedin.com/in/konstantinos-pantazis-).
 
 # Conferences / Talks
 
