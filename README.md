@@ -1,155 +1,146 @@
-<!--## Welcome to GitHub Pages
+I am a data scientist and applied mathematician with a Ph.D. in mathematics, working at the intersection of machine learning, scientific AI, network science, and data-driven decision support.
 
-You can use the [editor on GitHub](https://github.com/kpantazis/-kpantazis.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My current work focuses on building practical machine-learning systems for complex scientific and industrial data. I am especially interested in roles where statistical thinking, model evaluation, optimization, and clear communication are needed to turn limited or noisy data into useful decisions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
-Driven by a passion to translate complex data into actionable insights, I leverage my academic background in machine learning, statistics, and network analysis.
+**Contact:** [konstantinos_pantazis@hotmail.com](mailto:konstantinos_pantazis@hotmail.com) | +30 695 5532 846 | Athens, Greece  
+**Profiles:** [LinkedIn](https://linkedin.com/in/konstantinos-pantazis-) | [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Konstantinos-Pantazis-5)
 
-My expertise allows me to tackle challenging data-driven problems, from building robust machine learning models to uncovering hidden patterns in real-world datasets. I'm eager to continuously learning and make a real-world impact.
+**CVs:** [Industry CV](docs/Industry_CV.pdf) | [Academic CV](docs/Academic_CV.pdf)
 
-# About
+**Sections:** [Industry](#industry) | [Academia](#academia) | [Personal](#personal)
 
-Since September 2024, I am a Data Scientist at [Deus Ex Machina](https://ekmechanes.com/), subsidiary of [PIPA AI](https://pipacorp.com/), specializing in applications within the life sciences sector. My role focuses on leveraging advanced data analytics and machine learning methodologies to address critical challenges in healthcare and biotechnology, with the goal of driving innovation and delivering data-driven solutions.
+# Industry
 
-During 2022-2023, I was a Postdoctoral Fellow in the [Department of Applied Mathematics & Statistics (AMS)](https://engineering.jhu.edu/ams/) at the Whiting School of Engineering, Johns Hopkins University. 
-My faculty sponsor was Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/). My research areas of interest included Multiscale Statistical Network Inference, Multiple Graph Matching and Time Series of Networks.
+I am currently a Data Scientist at [Deus Ex Machina](https://ekmechanes.com/), a subsidiary of [PIPA AI](https://pipacorp.com/), where I work on machine-learning and data-science systems for scientific and industrial applications.
 
-During Summer 2022, I was a Joint E+D & MSR research intern at Microsoft. My supervisors were Dr. Anna Bertinger (E+D team) and Dr. Jonathan Larson ([Microsoft Research team](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/)).
+My industry profile is centered on:
 
-I received my PhD diploma from the Department of Mathematics & Statistics, University of Maryland, College Park on May 2022 under the supervision of Associate Professor [Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/).
+- Machine-learning pipelines for heterogeneous scientific and operational datasets.
+- Predictive modeling, model evaluation, feature engineering, and optimization.
+- Scientific AI and decision-support workflows for complex real-world systems.
+- Data integration from APIs, databases, public sources, and structured scientific records.
+- LLM, NLP, and retrieval workflows for scientific and biomedical information extraction.
+- Translating technical results into clear reports and stakeholder-facing recommendations.
 
-During Summer 2021, I was a research intern at the Computational and Information Sciences Directorate ([CISD](https://www.arl.army.mil/who-we-are/directorates/cisd/)), DEVCOM Army Research Laboratory supervised by Dr. Jade Freeman.
+## Selected Industry Experience
 
-Since 2019, I am interested in the statistical analysis of joint spectral embedding methods for multiple networks. From 2017 to 2019, I was a PhD student at [UMASS](https://www.math.umass.edu/) and worked in graph matching problems with my PhD advisor Vince Lyzinski.
+**Data Scientist, Deus Ex Machina / PIPA AI**  
+Athens, Greece / Remote, September 2024 - Present
 
-I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian University of Athens](https://www.math.uoa.gr/), Greece.
- 
-### For more information, please check out my [industry CV](docs/Industry_CV.pdf)  and/or my [academic CV](docs/Academic_CV.pdf). Also, connect with me on [LinkedIn](https://linkedin.com/in/konstantinos-pantazis-).
+- Build machine-learning workflows for scientific and industrial datasets, including predictive modeling, feature selection, automated retraining, and model evaluation.
+- Develop decision-support workflows that combine data processing, statistical modeling, and optimization.
+- Work with heterogeneous data sources, including APIs, databases, public datasets, and structured scientific information.
+- Evaluate LLM, NLP, and retrieval-based systems for information extraction and scientific knowledge workflows.
 
-# Conferences / Talks
+**Joint E+D & MSR Research Intern, Microsoft**  
+Seattle, USA, May 2022 - August 2022
 
-* **December 17-19, 2022** &nbsp; &nbsp; 15th International Conference of the ERCIM WG on Computational and Methodological Statistics [CMStatistics 2022](http://www.cmstatistics.org/CMStatistics2022/submission.php). Virtual. [[Slides]](docs/CMStat_2022.pdf)
+- Modeled security incidents as graphs and applied graph-similarity learning methods for relational incident analysis.
+- Processed network-streaming security data and built interactive Power BI dashboards for exploratory analysis and risk quantification.
 
-* **November 28 - December 1, 2022** &nbsp; &nbsp; NeurIPS 2022: Thirty-sixth Conference on Neural Information Processing Systems [NIPS2022](https://nips.cc/). In-person. [[Poster Session]](docs/NIPS2022genOMNI.pdf)
+**Machine Learning Intern, DEVCOM Army Research Laboratory**  
+Washington, DC, USA, June 2021 - August 2021
 
-* **December 10, 2021** &nbsp; &nbsp; Talk at National & Kapodistrian University of Athens. In-person. [[Announcement]](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
- 
-- **August 12, 2021**  &nbsp; &nbsp;  &nbsp; [2021 Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317882). Virtual. [[Video presentation]](docs/JSM2021/JSM_2021_KP-GenOMNI.mp4)
+- Surveyed recommender-system methods and proposed collaborative filtering approaches for prioritizing information objects in dynamic, high-volume settings.
 
-- **August 12, 2021**   &nbsp; &nbsp; DEVCOM ARL Summer Student Symposium. Virtual.
-  [[Poster]](docs/ARL_Poster_Symposium_2021_KonstantinosPantazis.pdf)
+## Technical Areas
 
-- **July 10, 2021**  &nbsp; &nbsp;[NETWORKS 2021](http://networks2021.net): A Joint Sunbelt and NetSci Conference. Virtual.
+- **Programming and data systems:** Python, SQL, R, MATLAB, Power BI, REST APIs, scikit-learn, PyTorch, TensorFlow, Polars, NetworkX.
+- **Machine learning and analytics:** regression, classification, clustering, feature engineering, feature selection, model evaluation, graph learning, recommender systems.
+- **Scientific AI and optimization:** surrogate modeling, model calibration, active learning, uncertainty-aware evaluation, statistical inference, process optimization.
+- **LLMs and NLP:** HuggingFace, BioBERT, LangChain, RAG, RAGAS, TruLens, Pydantic, LLM APIs, graph-based retrieval.
 
-# Papers
-### For a full list of articles, please check my [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en) and/or [ResearchGate](https://www.researchgate.net/profile/Konstantinos-Pantazis-5).
+For a complete industry-focused summary, please see my [Industry CV](docs/Industry_CV.pdf).
 
-1. **“The Importance of Being Correlated: Implications of Dependence in Joint Spectral Inference across Multiple Networks”**
-   Pantazis, K., Athreya, A., Arroyo, J., Frost, W. N., Hill, E. S., and Lyzinski, V.
-   _Journal of Machine Learning Research (JMLR)_ 23(141):1−77, 2022.
-   [journal](https://www.jmlr.org/papers/v23/20-944.html).
-   
-2. **“Multiplex graph matching matched filters”** 
-   Pantazis, K., Sussman, D.L., Park, Y. et al.
-   _Applied Network Science 7, 29 (2022)
-   [journal](https://doi.org/10.1007/s41109-022-00464-0).
-   
-   - A shorter version of the paper appeared in _GTA³ 3.0: The 3rd workshop on Graph Techniques for Adversarial Activity Analytics_, 2019.
-   
-4. **“Clustered Graph Matching for Label Recovery and Graph Classification"**
-   Li, Z., Arroyo, J., Pantazis, K., and Lyzinski, V.
-   _IEEE Transactions on Network Science and Engineering (2023)
-   [journal](https://ieeexplore.ieee.org/document/10091478).
+# Academia
 
-5. **“Optimizing the Induced Correlation in Omnibus Joint Graph Embeddings"**
-   Pantazis, K., Trosset, M., Frost, W. N., Priebe, C. E., Lyzinski, V.
-   [arxiv (2024)](https://arxiv.org/abs/2409.17544).
-   
-## Reviewer
-1. Journal of Machine Learning Research (JMLR) 
-2. Knowledge-based Systems (KBS)
+My academic background is in applied mathematics, statistical network analysis, graph matching, multiplex networks, and machine learning for heterogeneous relational data. My research develops methods for inference across multiple graphs, entity alignment, and joint network embeddings, with applications including neuroscience, social platforms, security incident networks, and structured scientific datasets.
 
-# Teaching 
+## Education
 
-## Course instructor
+**Ph.D. in Mathematics**, University of Maryland, College Park, 2019 - 2022  
+Dissertation: *Statistical Inference across Multiple Graphs: Advancements in Multiplex Graph Matching and Joint Spectral Graph Embeddings*  
+Advisor: Professor [Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/)
 
-### Johns Hopkins University
+**Ph.D. Studies in Mathematics**, University of Massachusetts Amherst, 2017 - 2019  
+Transferred to the University of Maryland following advisor relocation.
 
-- Introduction to Optimization (EN.553.361), Spring 2023
+**B.Sc. in Applied Mathematics**, [National and Kapodistrian University of Athens](https://www.math.uoa.gr/), 2011 - 2016
 
-- Probability and Statistics for the Biological Sciences and Engineering (EN.553.311), Fall 2022
+## Academic Experience
 
-## Discussion Sections (TA instructor)
+**Postdoctoral Fellow, Applied Mathematics & Statistics**  
+[Johns Hopkins University](https://engineering.jhu.edu/ams/), June 2022 - June 2023
 
-### University of Maryland College Park
+- Developed statistical methods for network-valued and time-series-derived data, with applications to neuroscience, representation learning, dependence modeling, and downstream inference.
+- Studied relationships between network embeddings and classical statistical techniques such as principal component analysis.
+- Faculty sponsor: Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/).
 
-- Introduction to Linear Algebra (MATH240), Spring 2022
+**Research Assistant**  
+University of Massachusetts Amherst, September 2018 - August 2019
 
-- Applied Probability and Statistics (STAT400), Spring 2020 & 2021
+- Worked on graph matching problems under the supervision of Professor Vince Lyzinski.
 
-- Linear Algebra for Scientists & Engineers (MATH461), Fall 2019
+## Publications and Preprints
 
-### University of Massachusetts, Amherst
+1. **Hybrid multi-physics and machine-learning framework for prediction and optimization in twin-screw food extrusion.**  
+   Eleftherios Tsivolas, Konstantinos Pantazis, Dimitrios Sfondylis, Marina Kontou, and Ilias Tagkopoulos. *Journal of Food Engineering*, under review, 2026.
 
-- Ordinary Differential Equation (MATH331), Fall 2017
+2. **Optimizing the Induced Correlation in Omnibus Joint Graph Embeddings.**  
+   Konstantinos Pantazis, Michael Trosset, William N. Frost, Carey E. Priebe, and Vince Lyzinski. *Journal of Computational and Graphical Statistics*, accepted for publication, 2026. [arXiv](https://arxiv.org/abs/2409.17544)
 
-<!--## Grading
+3. **Clustered Graph Matching for Label Recovery and Graph Classification.**  
+   Zhirui Li, Jesus Arroyo, Konstantinos Pantazis, and Vince Lyzinski. *IEEE Transactions on Network Science and Engineering*, 10(6):3384-3395, 2023. [Journal](https://ieeexplore.ieee.org/document/10091478)
 
-- Real Analysis I (MATH630, graduate course), Fall 2020 & 2021
+4. **The Importance of Being Correlated: Implications of Dependence in Joint Spectral Inference across Multiple Networks.**  
+   Konstantinos Pantazis, Avanti Athreya, Jesus Arroyo, William N. Frost, Evan S. Hill, and Vince Lyzinski. *Journal of Machine Learning Research*, 23(141):1-77, 2022. [Journal](https://www.jmlr.org/papers/v23/20-944.html)
 
-- Applied Harmonic Analysis: An Introduction to Signal Processing (MATH416), Fall 2021-->
+5. **Multiplex Graph Matching Matched Filters.**  
+   Konstantinos Pantazis, Daniel L. Sussman, Youngser Park, Zhirui Li, Carey E. Priebe, and Vince Lyzinski. *Applied Network Science*, 7, Article 29, 2022. [Journal](https://doi.org/10.1007/s41109-022-00464-0)
 
-# Internships
+For a fuller list, please see my [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Konstantinos-Pantazis-5) profiles.
 
-* **Summer 2022** &nbsp; &nbsp;  <u> Research Intern: Graph Matching (Microsoft) <u>  &nbsp; (12 weeks) [[LinkedIn announcement]](https://www.linkedin.com/jobs/view/research-intern-graph-matching-at-microsoft-3073489771/)
+## Selected Talks and Presentations
 
-    Aim attention at modeling security incidents via graphs and applying modern machine learning and graph theoretic methods toward building interactive systems.
+- **CMStatistics 2022**, 15th International Conference of the ERCIM WG on Computational and Methodological Statistics, December 17-19, 2022. [Slides](docs/CMStat_2022.pdf)
+- **NeurIPS 2022**, Thirty-sixth Conference on Neural Information Processing Systems, November 28 - December 1, 2022. [Poster](docs/NIPS2022genOMNI.pdf)
+- **Invited talk at the National and Kapodistrian University of Athens**, December 10, 2021. [Announcement](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
+- **2021 Joint Statistical Meetings**, August 2021. [Video presentation](docs/JSM2021/JSM_2021_KP-GenOMNI.mp4)
+- **DEVCOM ARL Summer Student Symposium**, August 12, 2021. [Poster](docs/ARL_Poster_Symposium_2021_KonstantinosPantazis.pdf)
+- **NETWORKS 2021**, A Joint Sunbelt and NetSci Conference, July 2021.
 
-* **Summer 2021** &nbsp; &nbsp;  <u> CCDC-ARL Summer Student Experience: Computational and Information Sciences Directorate, Adelphi MD <u>  &nbsp; (12 weeks)
+## Teaching
 
-    Focused on developing a learning algorithm for collaboratively prioritizing and filtering information object in dynamic contextual environment.
+**Course Instructor, Johns Hopkins University**
 
-# Extracurricular
+- Introduction to Optimization (EN.553.361), Spring 2023.
+- Probability and Statistics for the Biological Sciences and Engineering (EN.553.311), Fall 2022.
 
-### Volunteering
-- I am a probationary / associate member of the [Hyattsville Volunteer Fire Department, Inc](https://hvfd.com/) since October 2021.
+**Teaching Assistant, University of Maryland, College Park**
 
-- I am a platelet donor at American Red Cross [Consider Platelet Donation](https://www.redcrossblood.org/giveplatelets.html)
+- Introduction to Linear Algebra (MATH240), Spring 2022.
+- Applied Probability and Statistics (STAT400), Spring 2020 and Spring 2021.
+- Linear Algebra for Scientists and Engineers (MATH461), Fall 2019.
 
-- I am an active member of [Potomac Appalachian Trail Club](https://www.patc.net/) since 2020. During Spring 2021, I was a crew member for trail maintenance at [Sugarloaf Mountain, MD](https://sugarloafmd.com/).
+**Teaching Assistant, University of Massachusetts Amherst**
 
-### Well-being activities
- 
-- If you are living in (or visiting) the [DMV area](https://en.wikipedia.org/wiki/Washington_metropolitan_area) and you are interested in spending your leisure time exploring nearby mountains or rivers via hiking, running, cycling, rock climbing or any other activity, let me know! Also, follow me on [Strava](https://www.strava.com/athletes/87778247). 😁
+- Ordinary Differential Equations (MATH331), Fall 2017.
 
-<!--- Bulleted
-- List
----
-1. Numbered
-2. List
+## Reviewing and Service
 
-<details>
-           <summary>Title 1</summary>
-           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
-         </details>
+- Reviewer for the *Journal of Machine Learning Research*.
+- Reviewer for *Knowledge-Based Systems*.
 
-[Link](url) and ![Image](src)
+For the full academic version, please see my [Academic CV](docs/Academic_CV.pdf).
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
+# Personal
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Outside work, I value community service, health, and time outdoors.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.-->
+- Blood and platelet donor in Greece and the United States.
+- Former probationary / associate member of [Hyattsville Volunteer Fire Department, Inc.](https://hvfd.com/).
+- Interested in hiking, running, cycling, climbing, and outdoor exploration. You can also find me on [Strava](https://www.strava.com/athletes/87778247).
 
 * * *
 
-
-
-
-© Copyright 2026 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: October 19, 2024.
-
+Copyright 2026 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with the [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: May 29, 2026.
