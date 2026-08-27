@@ -2,7 +2,7 @@ I am a data scientist and applied mathematician with a Ph.D. in mathematics, wor
 
 My current work focuses on building practical machine-learning systems for complex scientific and industrial data. I am especially interested in roles where statistical thinking, model evaluation, optimization, and clear communication are needed to turn limited or noisy data into useful decisions.
 
-**Contact:** [konstantinos_pantazis@hotmail.com](mailto:konstantinos_pantazis@hotmail.com) | +30 695 5532 846 | Athens, Greece  
+**Contact:** [konstantinos_pantazis@hotmail.com](mailto:konstantinos_pantazis@hotmail.com) | Windeck-Mauel, Germany
 **Profiles:** [LinkedIn](https://linkedin.com/in/konstantinos-pantazis-) | [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Konstantinos-Pantazis-5)
 
 **CVs:** [Industry CV](docs/Industry_CV.pdf) | [Academic CV](docs/Academic_CV.pdf)
